@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\androidUtils\CameraDiolog\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f68b34fd64f99e17fc88de9f00e20d7f26cf60fc">
+        <dex dex="E:\androidUtils\CameraDiolog\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c42dcd1c932847d91351944bd5500ec3a8358644\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\androidUtils\CameraDiolog\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="E:\androidUtils\CameraDiolog\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a5a27b423b7b5262e4fb339e611201e807257dfa\classes.dex" />
+    </item>
+
+</items>
